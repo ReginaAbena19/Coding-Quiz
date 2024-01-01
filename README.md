@@ -37,7 +37,10 @@ The following animation demonstrates the application functionality:
 ## Workflow
 I committed straight to main with very clear commit messages and history
 
-Code source can be found <here>
+Code source can be found in:
+* src/js/logic.js
+* src/js/questions.js
+* src/js/scores.js
 
 ## Implementation
 
