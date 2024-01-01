@@ -32,7 +32,7 @@ Create a code quiz that contains the following requirements:
 
 The following animation demonstrates the application functionality:
 
-![Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their initials, then clears their initials and starts over.](./assets/08-web-apis-challenge-demo.gif)
+![Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their initials, then clears their initials and starts over.](./solution/08-web-apis-challenge-demo.gif)
 
 ## Workflow
 I committed straight to main with very clear commit messages and history
