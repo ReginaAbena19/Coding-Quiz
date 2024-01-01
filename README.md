@@ -43,8 +43,7 @@ Code source can be found <here>
 
 ## After thoughts
   
-
-
 ## Installation
+* The challenge is deployed using Github Pages. The end result can be found here: https://reginaabena19.github.io/Coding-Quiz/
 
-The challenge is deployed using Github Pages. The end result can be found here: <here> When viewing through the editor ensure live server is installed in order to run the index.html file in the browswer.
+* When viewing through the editor ensure live server is installed in order to run the index.html file in the browswer.
