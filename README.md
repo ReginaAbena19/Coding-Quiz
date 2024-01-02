@@ -42,9 +42,9 @@ Code source can be found in:
 * src/js/questions.js
 * src/js/scores.js
 
-## Implementation
 
 ## After thoughts
+- I had some issues getting the initials and score to save in local storage and display on the screen so will come back to solving this issue in the future! 
   
 ## Installation
 * The challenge is deployed using Github Pages. The end result can be found here: https://reginaabena19.github.io/Coding-Quiz/
