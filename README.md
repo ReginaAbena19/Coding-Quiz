@@ -50,3 +50,9 @@ Code source can be found in:
 * The challenge is deployed using Github Pages. The end result can be found here: https://reginaabena19.github.io/Coding-Quiz/
 
 * When viewing through the editor ensure live server is installed in order to run the index.html file in the browser.
+
+## questions source
+https://www.sanfoundry.com/1000-javascript-questions-answers/
+https://www.interviewbit.com/javascript-mcq/
+https://www.sanfoundry.com/javascript-mcqs-client-side-storage/
+https://algodaily.com/lessons/events-and-event-handling-17612552
